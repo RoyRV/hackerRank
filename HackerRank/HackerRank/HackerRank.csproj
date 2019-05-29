@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Challenges\ChallengeFive.cs" />
+    <Compile Include="Challenges\ChallengeSix.cs" />
     <Compile Include="Challenges\ChallengeThree.cs" />
     <Compile Include="Challenges\ChallengeTwo.cs" />
     <Compile Include="Challenges\ChanllengeOne.cs" />

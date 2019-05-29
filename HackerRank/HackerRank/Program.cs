@@ -41,6 +41,11 @@ namespace HackerRank
                 ChallengeFive challenge = new ChallengeFive();
                 challenge.ResolveChallenge();
             }
+            else if (challengeNumber == 6)
+            {
+                ChallengeSix challenge = new ChallengeSix();
+                challenge.ResolveChallenge();
+            }
             else {
                 Console.WriteLine("Challenge not found");
             }
